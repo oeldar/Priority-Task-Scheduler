@@ -4,7 +4,7 @@ Implementacija task scheduler-a sa thread pool-om u C++. Program omogućava rasp
 
 ## Kompajliranje
 
-Program zahtjeva C++17 kompajler i pthread biblioteku.
+Program zahtjeva minimalno C++17 kompajler i pthread biblioteku.
 
 ```bash
 # Kompajliranje pomoću Makefile
